@@ -17,7 +17,7 @@ Words like "remove", "free", and "our" are strongly correlated with spam message
 
 The confusion matrix was used to track true positives, false negatives, and misclassifications.
 
-The model achieved over 85% accuracy with proper tuning.
+The model achieved over 91% accuracy with proper tuning.
 
 # 📊 Dataset:
 The dataset includes features such as:
